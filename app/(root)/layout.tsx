@@ -9,7 +9,7 @@ import Topbar from "@/components/shared/Topbar";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata: Metadata = {
+export const metadata:Metadata = {
   title: "Community",
   description: "A social Application",
 };
